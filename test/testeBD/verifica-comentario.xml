@@ -1,0 +1,14 @@
+<dataset>
+    <USUARIO LOGIN="joao" EMAIL="joao@teste.com" NOME="Joao Pedro" SENHA="1234" PONTOS="10"/>
+    <USUARIO LOGIN="maria" EMAIL="mt@teste.com" NOME="Maria Tereza" SENHA="1234" PONTOS="15"/>
+    
+    <TOPICO ID_TOPICO="1" LOGIN="joao" TITULO="Oi" CONTEUDO="Meu nome e Joao" />
+    <TOPICO ID_TOPICO="2" LOGIN="joao" TITULO="Sera que tem alguem aqui?" CONTEUDO="O forum parece vazio..." />
+    
+    
+    <COMENTARIO ID_COMENTARIO="1" COMENTARIO="Oi Joao sou a Maria" LOGIN="maria" ID_TOPICO="2" />
+    <COMENTARIO ID_COMENTARIO="2" COMENTARIO="Ola Maria Pensei que estivesse sozinho aqui" LOGIN="joao" ID_TOPICO="2" />
+    <COMENTARIO ID_COMENTARIO="3" COMENTARIO="Nao... estou aqui para te fazer companhia" LOGIN="maria" ID_TOPICO="2" />
+    <COMENTARIO ID_COMENTARIO="4" COMENTARIO="Que bom Maria, fico feliz =)" LOGIN="joao" ID_TOPICO="2" />
+    
+</dataset>
